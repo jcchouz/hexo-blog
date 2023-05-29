@@ -1,0 +1,14 @@
+# language
+zh-CN:
+  # items
+  title:
+    archive: 时间线
+  menu:
+    about: 关于我
+    home: 文章概览
+    archives: 时间线
+en:
+  menu:
+    about: About Me
+    home: Article Overview
+    archives: Time Line
